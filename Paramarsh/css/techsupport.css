@@ -1,0 +1,82 @@
+/*
+====================================================================================================================================================================
+                                                    Start Tech Support Page
+====================================================================================================================================================================
+*/
+
+#computer {
+    position: absolute;
+    top: 250px;
+    left: 300px;
+}
+.computersupport img{
+    width: 400px;
+    height: 320px;
+}
+
+.text {
+    position: absolute;
+    top: 200px;
+    left: 733px;
+    width: 600px;
+}
+
+#computer2 {
+    position: absolute;
+    top: 600px;
+    left: 300px;
+}
+.computersupport2 img{
+    width: 400px;
+    height: 320px;
+}
+
+.text2 {
+    position: absolute;
+    top: 550px;
+    left: 733px;
+    width: 600px;
+}
+
+#computer3 {
+    position: absolute;
+    top: 950px;
+    left: 300px;
+}
+.computersupport3 img{
+    width: 400px;
+    height: 320px;
+}
+
+.text3 {
+    position: absolute;
+    top: 900px;
+    left: 733px;
+    width: 600px;
+}
+
+
+footer {
+    width: 100%;
+    height: 80px;
+    background:  #148083;
+    position: absolute;
+    top: 1400px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: 32px;
+    font-size: 1em;
+}
+
+
+/*
+====================================================================================================================================================================
+                                                    End Tech Support Page
+====================================================================================================================================================================
+*/
+
+

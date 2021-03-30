@@ -1,0 +1,107 @@
+/*
+====================================================================================================================================================================
+                                                    Start Global Properties 
+====================================================================================================================================================================
+*/
+body {
+    font-family: roboto;
+}
+#logo{
+    width: 121px;
+}
+
+header {
+	width: 100%;
+	height: 80px;
+	background: #148083;
+}
+
+img#logo { 
+    margin-left: 100px;
+    margin-right: 100px;
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 330px;
+    margin-top: 25px;
+}
+.nav-right{
+    margin-left: 775px;
+    margin-top: -31px;
+    padding: 6px;
+    
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: 2em;
+    font-size: 18px;
+	font-family: 'roboto';
+    margin-top: 0px;
+	margin-right: 20px;
+    padding: 30px;
+}
+
+a:hover {
+    color: white;
+    background:  #05575a; 
+    padding: 35px;
+    margin-top: 0px;
+	margin-right: 10px;
+}
+
+.btn{
+    width: 110px;
+    height: 30px;
+    border-radius: 2px;
+    font-size: 18px;
+    
+}
+
+.footer a{
+    margin-left: 557px;
+    font-size: 15px;
+}
+.footer a:hover{
+    color: white;
+    background: transparent; 
+   
+  
+}
+
+
+button {
+    width: 50%;
+    height: 50px;
+    background: #0b6b6e;
+    color: white;
+    font-size: 2em;
+    border:none;
+}
+
+button:hover {
+    background: #05575a; 
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 2em;
+}
+
+/*
+====================================================================================================================================================================
+                                                    End Global Properties 
+====================================================================================================================================================================
+*/
